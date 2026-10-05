@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Horarios de bus</string>
+    <string name="full_schedule">Horario completo</string>
+    <string name="stop_name">Paradero</string>
+    <string name="arrival_time">Llegada</string>
+    <string name="back_button">Atrás</string>
+    <string name="no_data">No hay horarios</string>
+</resources>

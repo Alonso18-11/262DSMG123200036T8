@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SQL Basics</string>
+    <string name="email_count">%1$d correos en la base de datos</string>
+    <string name="hint">Abre App Inspection > Database Inspector para ejecutar las consultas SQL.</string>
+</resources>
