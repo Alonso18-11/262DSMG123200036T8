@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dessert Release</string>
+    <string name="grid_layout_toggle">Cambiar a cuadrícula</string>
+    <string name="linear_layout_toggle">Cambiar a lista</string>
+</resources>

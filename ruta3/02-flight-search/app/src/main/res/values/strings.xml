@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Búsqueda de vuelos</string>
+    <string name="search_hint">Ingresa aeropuerto de salida</string>
+    <string name="clear">Borrar</string>
+    <string name="flights_from">Vuelos desde %1$s</string>
+    <string name="favorite_routes">Rutas favoritas</string>
+    <string name="no_favorites">Aún no tienes rutas favoritas.\nBusca un aeropuerto y marca la estrella.</string>
+    <string name="no_results">No se encontraron aeropuertos</string>
+    <string name="depart">SALIDA</string>
+    <string name="arrive">LLEGADA</string>
+    <string name="add_favorite">Agregar a favoritos</string>
+    <string name="remove_favorite">Quitar de favoritos</string>
+</resources>
